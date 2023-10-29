@@ -1,0 +1,2 @@
+from setuptools import setup
+setup(name = 'BookLoverPackage',version = '1.0', description = 'A package for the BookLover Class', url= 'https://github.com/rachelmdaniel/M09-HW---BookLover-Package', author = 'Rachel Daniel', author_email = 'rmd9ev@virginia.edu', license = "MIT", packages = ['BookLoverPackage'])
